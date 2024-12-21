@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "Adafruit NAU7802 Breakout-eagle-import")(type "KiCad")(uri "/home/anders/git/KiCAD/Adafruit NAU7802 Breakout/Adafruit NAU7802 Breakout-eagle-import.kicad_sym")(options "")(descr ""))
 )
