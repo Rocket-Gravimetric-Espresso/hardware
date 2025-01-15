@@ -29,3 +29,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+bom/
+
+# Production
+production/
+production.zip
+
+# Fabrication
+fabrication-toolkit-options.json
